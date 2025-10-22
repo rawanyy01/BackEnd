@@ -1,0 +1,14 @@
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\bin\Debug\net9.0\exercicio27While.exe
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\bin\Debug\net9.0\exercicio27While.deps.json
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\bin\Debug\net9.0\exercicio27While.runtimeconfig.json
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\bin\Debug\net9.0\exercicio27While.dll
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\bin\Debug\net9.0\exercicio27While.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.AssemblyInfoInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.AssemblyInfo.cs
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.csproj.CoreCompileInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.dll
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\refint\exercicio27While.dll
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\exercicio27While.genruntimeconfig.cache
+C:\Users\58040489881\Desktop\BackEndMoura\exercicio27While\obj\Debug\net9.0\ref\exercicio27While.dll

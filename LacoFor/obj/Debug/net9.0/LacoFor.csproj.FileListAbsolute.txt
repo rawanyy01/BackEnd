@@ -1,0 +1,14 @@
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\bin\Debug\net9.0\LacoFor.exe
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\bin\Debug\net9.0\LacoFor.deps.json
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\bin\Debug\net9.0\LacoFor.runtimeconfig.json
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\bin\Debug\net9.0\LacoFor.dll
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\bin\Debug\net9.0\LacoFor.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.AssemblyInfoInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.AssemblyInfo.cs
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.csproj.CoreCompileInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.dll
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\refint\LacoFor.dll
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\LacoFor.genruntimeconfig.cache
+C:\Users\58040489881\Desktop\BackEndMoura\LacoFor\obj\Debug\net9.0\ref\LacoFor.dll

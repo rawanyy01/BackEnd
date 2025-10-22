@@ -1,0 +1,14 @@
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\bin\Debug\net9.0\desafioMaior.exe
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\bin\Debug\net9.0\desafioMaior.deps.json
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\bin\Debug\net9.0\desafioMaior.runtimeconfig.json
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\bin\Debug\net9.0\desafioMaior.dll
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\bin\Debug\net9.0\desafioMaior.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.AssemblyInfoInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.AssemblyInfo.cs
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.csproj.CoreCompileInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.dll
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\refint\desafioMaior.dll
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\desafioMaior.genruntimeconfig.cache
+C:\Users\58040489881\Desktop\BackEndMoura\desafioMaior\obj\Debug\net9.0\ref\desafioMaior.dll
