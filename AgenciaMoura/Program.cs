@@ -1,4 +1,7 @@
-﻿int opcao = -1;
+﻿string[] nomes = new string[10];
+int opcao = -1;
+int totalClientes = 0;
+float[] saldos = new float[10];
 
 do
 {
@@ -65,4 +68,10 @@ switch (opcao)
     void ListarCliente()
 {
     Console.WriteLine($"Função Listar Cliente cliente em desenvolvimento");
+    for (int i = 0; i < nomes.Length; i++)
+{
+    Console.WriteLine($"Nomes: {nomes[i]}");
+    
+    
+}
 }
