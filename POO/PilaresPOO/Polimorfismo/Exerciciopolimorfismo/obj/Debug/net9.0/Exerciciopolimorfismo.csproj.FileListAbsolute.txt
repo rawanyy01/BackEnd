@@ -1,0 +1,15 @@
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.exe
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.deps.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.runtimeconfig.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.AssemblyInfoInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.AssemblyInfo.cs
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.sourcelink.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\refint\Exerciciopolimorfismo.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.genruntimeconfig.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Polimorfismo\Exerciciopolimorfismo\obj\Debug\net9.0\ref\Exerciciopolimorfismo.dll

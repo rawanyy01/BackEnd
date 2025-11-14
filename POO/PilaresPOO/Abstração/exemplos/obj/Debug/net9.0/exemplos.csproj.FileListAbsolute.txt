@@ -1,0 +1,15 @@
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\bin\Debug\net9.0\exemplos.exe
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\bin\Debug\net9.0\exemplos.deps.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\bin\Debug\net9.0\exemplos.runtimeconfig.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\bin\Debug\net9.0\exemplos.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\bin\Debug\net9.0\exemplos.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.AssemblyInfoInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.AssemblyInfo.cs
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.csproj.CoreCompileInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.sourcelink.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\refint\exemplos.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\exemplos.genruntimeconfig.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Abstração\exemplos\obj\Debug\net9.0\ref\exemplos.dll
