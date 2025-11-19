@@ -1,0 +1,15 @@
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\bin\Debug\net9.0\Exercico2.exe
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\bin\Debug\net9.0\Exercico2.deps.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\bin\Debug\net9.0\Exercico2.runtimeconfig.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\bin\Debug\net9.0\Exercico2.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\bin\Debug\net9.0\Exercico2.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.AssemblyInfoInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.AssemblyInfo.cs
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.csproj.CoreCompileInputs.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.sourcelink.json
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\refint\Exercico2.dll
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.pdb
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\Exercico2.genruntimeconfig.cache
+C:\Users\58040489881\Desktop\BackEndMoura\POO\PilaresPOO\Interface\ExercicioInterface\Exercicio2\Exercico2\obj\Debug\net9.0\ref\Exercico2.dll
