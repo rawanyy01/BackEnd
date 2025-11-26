@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exerciciopolimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9b33218af86ac6cda2d9cb27abba60483d4e1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b9aa44f4c0c31b76778e5bd7c618dea03fd7caa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exerciciopolimorfismo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exerciciopolimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

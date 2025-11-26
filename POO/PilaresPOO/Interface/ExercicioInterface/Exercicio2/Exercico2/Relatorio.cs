@@ -1,16 +1,24 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Exercicio2
 {
     public class Relatorio : IImprimivel
     {
+        public string NomeResponsavel;
+        public string TextoRelatorio;
+
+
+        public Relatorio(string nr, string tr)
+        {
+            NomeResponsavel = nr;
+            TextoRelatorio = tr;
+        }
+
         public void imprimir()
         {
-            Console.WriteLine($"Imprimindo a fatura");
-            
+            Console.WriteLine($@"
+        Nome do responsavel: {NomeResponsavel}
+        Texto Relatório: {TextoRelatorio}
+        ");
         }
     }
 }
