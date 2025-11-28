@@ -1,17 +1,17 @@
 ﻿using EncapsulamentoExercicio;
 
 Console.Clear();
-Carro carroGu = new Carro();
-carroGu.DefinirMarca("Mazda");
-carroGu.ObterMarca();
-carroGu.DefinirModelo("RX7");
-carroGu.ObterModelo();
-carroGu.ObterVelocidade();
-carroGu.Acelerar(100);
-carroGu.Frear(0);
+Carro carroRaw = new Carro();
+carroRaw.DefinirMarca("Mazda");
+carroRaw.ObterMarca();
+carroRaw.DefinirModelo("RX7");
+carroRaw.ObterModelo();
+carroRaw.ObterVelocidade();
+carroRaw.Acelerar(100);
+carroRaw.Frear(0);
 
 Console.WriteLine($"");
 
-Console.WriteLine($"Marca do Carro: {carroGu.ObterMarca()}");
-Console.WriteLine($"Modelo do Carro: {carroGu.ObterModelo()}");
-Console.WriteLine($"Velocidade Atual: {carroGu.ObterVelocidade()}");
+Console.WriteLine($"Marca do Carro: {carroRaw.ObterMarca()}");
+Console.WriteLine($"Modelo do Carro: {carroRaw.ObterModelo()}");
+Console.WriteLine($"Velocidade Atual: {carroRaw.ObterVelocidade()}");
