@@ -9,21 +9,26 @@ using Microsoft.Extensions.Logging;
 
 namespace CrudMoura.Controllers
 {
-    
+
     public class AlunoController : Controller
     {
         private readonly ILogger<AlunoController> _logger;
+        private readonly CrudMouraContext _context;
 
-              public static List<Alunos> listaDeAlunos = new List<Alunos>
+
+
+        public static List<Alunos> listaDeAlunos = new List<Alunos>
         {
             new Alunos{Id = 1, Nome = "Rawany", Idade = 15, cpf = 10},
             new Alunos{Id = 1, Nome = "Milena", Idade = 16, cpf = 12},
             new Alunos{Id = 1, Nome = "Gistavo", Idade = 17, cpf = 50},
         };
 
-        public AlunoController(ILogger<AlunoController> logger)
+        public AlunoController(ILogger<AlunoController> logger, CrudMouraContext
+        context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
@@ -53,7 +58,7 @@ namespace CrudMoura.Controllers
             Console.WriteLine(AlunoCadastrada.Nome);
             Console.WriteLine(AlunoCadastrada.Idade);
             Console.WriteLine(AlunoCadastrada.cpf);
-            
+
             return RedirectToAction(nameof(ListarAlunos));
         }
 

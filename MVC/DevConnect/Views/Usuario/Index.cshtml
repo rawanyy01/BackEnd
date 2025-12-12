@@ -1,0 +1,63 @@
+@model DevConnect.Models.TbUsuario
+
+<link rel="stylesheet" href="~/css/cadastro.css">
+
+<script defer>
+    let usuarioNovoCadastro = "@ViewBag.UsuarioNovoCadastrado"; 
+
+    if(usuarioNovoCadastro == "Nao cadastrado"){
+        alert("Não foi possível cadastrar esse usuario! Fale com um dos nossos administradores");
+    }
+</script>
+
+<h1>Tela Cu - DevConnect</h1>
+ 
+<h1>Tela</h1>
+    <main>
+        <div>
+            <!-- formulario -->
+            <form class="estilo-formulario" asp-action="Index" asp-controller="Usuario" enctype="multipart/form-data">
+                <img src="~/images/logo-devconnect-lg.svg" alt="Logo DevConnect">
+
+                <p>Cadastre-se para comunidade exclusiva de desenvolvedores</p>
+
+                <div class="formulario-campos">
+                    <label for="">Nome e sobrenome:</label>
+                    <input type="text" asp-for="NomeCompleto" id="">
+                </div>
+
+                <div class="formulario-campos">
+                    <label for="">Nome de usuário:</label>
+                    <input type="text" asp-for="NomeUsuario" id="">
+                </div>
+
+                <div class="formulario-campos">
+                    <label for="">E-mail:</label>
+                    <input type="email" asp-for="Email" id="">
+                </div>
+
+                <div class="formulario-campos">
+                    <label for="">Senha:</label>
+                    <input type="password" asp-for="Senha" id="">
+                </div>
+
+                <div id="upload">
+                    <label for="campo-upload">Faça upload da sua imagem aqui</label>
+                    <input type="file" name="imagem" id="campo-upload" accept="image/*">
+                </div>
+
+                <button type="submit" class="formulario-botao-cadastrar-se">Cadastrar-se</button>
+
+                <p>Ao se cadastrar você concorda com nossos termos, Política de dados e Política de cookies</p>
+
+
+            </form>
+
+            <section id="secao-cadastro2" class="estilo-formulario">
+                <p>Tem uma conta? <a href="#">Conecte-se</a></p>
+            </section>
+
+
+            </section>
+        </div>
+    </main>
